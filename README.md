@@ -1,4 +1,4 @@
-Here's a basic `README.md` for your To-Do List Flask project:
+To-Do List Flask project:
 
 ```markdown
 # To-Do List Flask Application
